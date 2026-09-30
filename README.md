@@ -13,7 +13,7 @@ history, and passes the received audio through as narrow FM.
 
 ## Install
 
-1. Download the app from the [Releases page](https://github.com/Nosen92/F4HWN-app-ccir-decoder/releases/latest), or build it (see below).
+1. Download the app from the [Releases page](https://github.com/Nosen92/F4HWN-app-ccir-selcall-decoder/releases/latest), or build it (see below).
 2. Open **UV Studio** → Apps (Labs edition) and install `SelCall.app` into a free slot.
 3. Tune the radio to the channel, press **F + 7**, pick the slot, press **M**.
 
