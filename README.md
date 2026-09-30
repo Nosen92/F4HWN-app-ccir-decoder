@@ -1,5 +1,7 @@
 # SelCall decoder for F4HWN Labs
 
+![Screenshot of the SelCall app decoding CCIR 5 tone](/SelCall.png)
+
 A CCIR 5-tone selective-call decoder that runs as an **overlay app** on the
 [F4HWN custom firmware](https://github.com/armel/uv-k1-k5v3-firmware-custom) v6.0.0 (Labs
 edition) for the Quansheng UV-K1. It shows each call as it's received, keeps a short
