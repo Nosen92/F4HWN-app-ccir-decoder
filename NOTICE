@@ -1,0 +1,6 @@
+SelCall for the Quansheng UV-K1
+Licensed under the Apache License, Version 2.0.
+
+This app is built with the overlay-app API and build scripts of the F4HWN custom
+firmware for the Quansheng UV-K1 / UV-K5 V3 (https://github.com/armel/uv-k1-k5v3-firmware-custom),
+also licensed under the Apache License, Version 2.0.
